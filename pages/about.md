@@ -14,6 +14,8 @@ credits: true
 
 ## About the Collection
 
+Here is some markdown text: here is **bold text** and _some very important text_. And finally a [link to the Brown Library page](http://library.brown.edu)
+
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
 - a CSV of collection metadata
